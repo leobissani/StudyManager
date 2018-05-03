@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StudyManager</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_home">Página Inicial</string>
+    <string name="action_subjects">Disciplinas</string>
+    <string name="action_grades">Quadro de Notas</string>
+    <string name="action_absences">Quadro de Faltas</string>
+    <string name="action_notes">Anotações</string>
+    <string name="action_info">Informações</string>
+    <string name="action_about">Sobre</string>
+    <string name="action_settings">Configurações</string>
+</resources>

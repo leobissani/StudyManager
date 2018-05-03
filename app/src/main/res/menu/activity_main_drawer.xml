@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_nav_home"
+            android:title="@string/action_home" />
+        <item
+            android:id="@+id/nav_subjects"
+            android:icon="@drawable/ic_nav_subjects"
+            android:title="@string/action_subjects" />
+        <item
+            android:id="@+id/nav_grades"
+            android:icon="@drawable/ic_nav_grades"
+            android:title="@string/action_grades" />
+        <item
+            android:id="@+id/nav_absences"
+            android:icon="@drawable/ic_nav_absences"
+            android:title="@string/action_absences" />
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/ic_nav_notes"
+            android:title="@string/action_notes" />
+    </group>
+
+    <item android:title="@string/action_info" >
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_nav_about"
+                android:title="@string/action_about" />
+        </menu>
+    </item>
+
+</menu>
